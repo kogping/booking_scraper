@@ -13,8 +13,6 @@ You need to run the scripts in order: first the scraper to generate the data, th
 
 **Step 1: Run the Scraper (`scrape_booking.py`)**
 
-*   Ensure your virtual environment is activated.
-*   Make sure ChromeDriver is correctly installed and accessible (see Prerequisites).
 *   Execute the scraper script from your terminal:
     ```bash
     python scrape_booking.py
