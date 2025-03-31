@@ -21,7 +21,6 @@ You need to run the scripts in order: first the scraper to generate the data, th
 **Step 2: Run the API Server (`app.py`)**
 
 *   Ensure the scraper has successfully run and created the `booking_listings.csv` file in the project directory.
-*   Ensure your virtual environment is still activated.
 *   Execute the Flask app script from your terminal:
     ```bash
     python app.py
